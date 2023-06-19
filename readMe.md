@@ -29,6 +29,4 @@ In this project, the technologies used to create my portfolio consist of:
 
 ## Author
 
-Neel Patel
-
-- email: [neelp072@gmail.com](gmail.com)
+[Neel Patel](mailto:neelp072@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
