@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is my personal website portffolio possesing interactive elements showcasing my previous projects and current skills. This project was built using languages such as JavaScript, HTML, and CSS/SCSS.
+This is my personal website portfolio possesing interactive elements showcasing my previous projects and current skills. This project was built using languages such as JavaScript, HTML, and CSS/SCSS.
 
 ## Table of Contents
 
