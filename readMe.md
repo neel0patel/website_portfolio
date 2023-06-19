@@ -31,4 +31,4 @@ In this project, the technologies used to create my portfolio consist of:
 
 Neel Patel
 
-- email: [neelp072@gmail.com]
+- email: [neelp072@gmail.com](gmail.com)
