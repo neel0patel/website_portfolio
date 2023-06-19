@@ -21,7 +21,11 @@ To run the portfolio website locally, follow these steps:
 
 ## Technologies Used
 
-In this project, the technologies used to create my portfolio consist of: - JavaScript - HTML - CSS/SCSS
+In this project, the technologies used to create my portfolio consist of:
+
+- JavaScript
+- HTML
+- CSS/SCSS
 
 ## Author
 
